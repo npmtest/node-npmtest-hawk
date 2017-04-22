@@ -96,7 +96,8 @@
         "test": "lab -a code -t 100 -L",
         "test-cov-html": "lab -a code -r html -o coverage.html"
     },
-    "version": "6.0.1"
+    "version": "6.0.1",
+    "bin": {}
 }
 ```
 
